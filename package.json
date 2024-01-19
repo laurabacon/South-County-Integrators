@@ -12,13 +12,13 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "south-county-integrators-",
+  "name": "south-county-integrators",
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "South-County-Integrators-"
+    "url": "South-County-Integrators"
   },
   "author": "Laura Brown",
   "license": "ISC"
